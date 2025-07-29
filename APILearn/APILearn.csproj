@@ -10,4 +10,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="EntityLibray">
+      <HintPath>..\EntityLibray\bin\Debug\net8.0\EntityLibray.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

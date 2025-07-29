@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36301.6 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APILearn", "APILearn\APILearn.csproj", "{BF18DD7F-EEB9-430E-8AE3-BD28CCAD903B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityLibray", "EntityLibray\EntityLibray.csproj", "{BDB985EA-8FFE-44F2-A33D-13F083792D69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BF18DD7F-EEB9-430E-8AE3-BD28CCAD903B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF18DD7F-EEB9-430E-8AE3-BD28CCAD903B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF18DD7F-EEB9-430E-8AE3-BD28CCAD903B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDB985EA-8FFE-44F2-A33D-13F083792D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB985EA-8FFE-44F2-A33D-13F083792D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB985EA-8FFE-44F2-A33D-13F083792D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB985EA-8FFE-44F2-A33D-13F083792D69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
