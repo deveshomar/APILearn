@@ -9,6 +9,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<EmployeeService>(); // Add service
+builder.Services.AddSingleton<CustomerService>(); // Add service
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

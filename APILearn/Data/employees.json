@@ -1,12 +1,6 @@
 [
   {
     "Id": 56,
-    "Name": "Raj",
-    "Department": "HomeSec",
-    "Salary": 1011223
-  },
-  {
-    "Id": 56,
     "Name": "Raj111",
     "Department": "H11omeSec",
     "Salary": 5123
